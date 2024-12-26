@@ -1,5 +1,5 @@
 ### Hi there 🥺
-Student at 42 Abu Dhabi
+I did miniRT UwU
 <!--
 **MonkeyCofi/MonkeyCofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
