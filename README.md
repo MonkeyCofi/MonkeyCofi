@@ -39,9 +39,16 @@ I'm a passionate systems programmer with a focus on **C/C++** development, speci
 ## 🏆 Featured Projects
 
 ### 🔧 [Project Name 1](https://github.com/MonkeyCofi/minishell)
-Recreation of the bash terminal in C
+A minimalistic re-creation of the bash terminal in C
 - **Tech Stack:** C, Makefile
 - **Key Features:**
+  - Priority queue for command parsing and execution
+  - Multiple command execution via pipes
+  - Heredoc input
+  - File input and output streaming
+  - History of runtime commands
+  - Builtin functions
+  - Variable storage and manipulation
 
 ### 🚀 [Project Name 2](https://github.com/MonkeyCofi/minirt)
 Systems utility written in C for [brief description]
