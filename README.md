@@ -4,28 +4,18 @@
 
 I'm a passionate systems programmer with a focus on **C/C++** development, specializing in high-performance, low-level programming. I enjoy tackling complex problems and building efficient, reliable software solutions.
 
-- 🔭 Currently working on **[current project or focus area]**
-- 🌱 Learning **[new technology or skill you're exploring]**
-- 👯 Looking to collaborate on **systems programming projects**
-- 💬 Ask me about **C, C++, systems programming, performance optimization**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[interesting fact about yourself]**
-
 ## 🛠️ Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-FF6B35?style=for-the-badge&logo=gnu&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-3776AB?style=for-the-badge&logoColor=white)
 
 ### Development Focus
@@ -48,13 +38,12 @@ I'm a passionate systems programmer with a focus on **C/C++** development, speci
 
 ## 🏆 Featured Projects
 
-### 🔧 [Project Name 1](https://github.com/MonkeyCofi/project1)
-High-performance C++ library for [brief description]
-- **Tech Stack:** C++98, CMake, GoogleTest
-- **Key Features:** Memory efficient, thread-safe, cross-platform
-- ⭐ **[X] stars** | 🍴 **[Y] forks**
+### 🔧 [Project Name 1](https://github.com/MonkeyCofi/minishell)
+Recreation of the bash terminal in C
+- **Tech Stack:** C, Makefile
+- **Key Features:**
 
-### 🚀 [Project Name 2](https://github.com/MonkeyCofi/project2)
+### 🚀 [Project Name 2](https://github.com/MonkeyCofi/minirt)
 Systems utility written in C for [brief description]
 - **Tech Stack:** C, Make, Linux APIs
 - **Key Features:** Fast execution, minimal dependencies
