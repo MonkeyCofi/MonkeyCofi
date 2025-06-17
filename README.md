@@ -1,8 +1,4 @@
-# Hi there, I'm [Your Name] 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Systems+Programmer;C%2FC%2B%2B+Developer;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
-</div>
+# Heewo, I'm Pierce
 
 ## 🚀 About Me
 
@@ -42,29 +38,29 @@ I'm a passionate systems programmer with a focus on **C/C++** development, speci
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=MonkeyCofi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeyCofi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonkeyCofi&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Featured Projects
 
-### 🔧 [Project Name 1](https://github.com/yourusername/project1)
+### 🔧 [Project Name 1](https://github.com/MonkeyCofi/project1)
 High-performance C++ library for [brief description]
 - **Tech Stack:** C++98, CMake, GoogleTest
 - **Key Features:** Memory efficient, thread-safe, cross-platform
 - ⭐ **[X] stars** | 🍴 **[Y] forks**
 
-### 🚀 [Project Name 2](https://github.com/yourusername/project2)
+### 🚀 [Project Name 2](https://github.com/MonkeyCofi/project2)
 Systems utility written in C for [brief description]
 - **Tech Stack:** C, Make, Linux APIs
 - **Key Features:** Fast execution, minimal dependencies
 - ⭐ **[X] stars** | 🍴 **[Y] forks**
 
-### 💡 [Project Name 3](https://github.com/yourusername/project3)
+### 💡 [Project Name 3](https://github.com/MonkeyCofi/project3)
 [Brief description of another significant project]
 - **Tech Stack:** [Technologies used]
 - **Key Features:** [Main features]
@@ -120,11 +116,11 @@ Other    2 mins          ░░░░░░░░░░░░░░░░░░�
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MonkeyCofi&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/yourusername">yourusername</a> - Feel free to reach out!</sub>
+  <sub>⭐ From <a href="https://github.com/MonkeyCofi">MonkeyCofi</a> - Feel free to reach out!</sub>
 </div>
 <!--
 **MonkeyCofi/MonkeyCofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
