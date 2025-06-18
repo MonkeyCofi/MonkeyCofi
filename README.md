@@ -28,10 +28,6 @@ I'm a passionate systems programmer with a focus on **C/C++** development, speci
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonkeyCofi&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MonkeyCofi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeyCofi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165">
 </div>
@@ -74,10 +70,8 @@ A dining philosophers simulation
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piercediet)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
 </div>
 
@@ -88,12 +82,6 @@ A dining philosophers simulation
 - [ ] Publish **[X] technical articles**
 - [ ] Mentor **junior developers** in C/C++
 - [ ] Complete **[specific certification or course]**
-
-## 💭 Quote
-
-> "The best way to predict the future is to invent it." - Alan Kay
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MonkeyCofi&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
