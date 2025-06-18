@@ -66,34 +66,9 @@ A ray-tracer written in C using the [minilibx graphics library](https://github.c
 A dining philosophers simulation
 - **Tech Stack:** C, Makefile
 - **Key Features:**
-  - Representation of philosophers through multiple threads
+  - Representation of philosophers both through threads and processes
   - Use of mutexes for multithreaded resource exclusivity
   - Use of semaphores for multi-process resource exclusivity (bonus feature)
-  - 
-
-## 📊 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<details>
-<summary>📈 More Stats</summary>
-
-### 💻 Most Used Languages This Week
-```text
-C++      8 hrs 15 mins   ████████████░░░░░░░░░   65.2%
-C        2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   21.8%
-Shell    1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░    8.2%
-Python   35 mins         █░░░░░░░░░░░░░░░░░░░░    4.6%
-Other    2 mins          ░░░░░░░░░░░░░░░░░░░░░    0.2%
-```
-
-### 🔥 Streak Stats
-- 🔥 Current Streak: **[X] days**
-- 📅 Longest Streak: **[Y] days**
-- 💻 Total Contributions: **[Z] commits**
-
-</details>
 
 ## 🤝 Connect With Me
 
