@@ -38,7 +38,7 @@ I'm a passionate systems programmer with a focus on **C/C++** development, speci
 
 ## 🏆 Featured Projects
 
-### 🔧 [Project Name 1](https://github.com/MonkeyCofi/minishell)
+### 🔧 [minishell](https://github.com/MonkeyCofi/minishell)
 A minimalistic re-creation of the bash terminal in C
 - **Tech Stack:** C, Makefile
 - **Key Features:**
@@ -50,17 +50,26 @@ A minimalistic re-creation of the bash terminal in C
   - Builtin functions
   - Variable storage and manipulation
 
-### 🚀 [Project Name 2](https://github.com/MonkeyCofi/minirt)
-Systems utility written in C for [brief description]
-- **Tech Stack:** C, Make, Linux APIs
-- **Key Features:** Fast execution, minimal dependencies
+### 🚀 [miniRT](https://github.com/MonkeyCofi/minirt)
+A ray-tracer written in C using the [minilibx graphics library](https://github.com/42paris/minilibx-linux)
+- **Tech Stack:** C, Make, Proprietary graphics library (minilibx)
+- **Key Features:**
+  - Rendering of multiple multi-colored and textured shapes
+  - Realtime environment rendering
+  - Custom environment configuration via config files
+  - Keyboard hooks for realtime camera movement
+  - Realistic lighting and shadows using Phong reflection model
+  - Texture bump mapping to simulate a 3D texture
 - ⭐ **[X] stars** | 🍴 **[Y] forks**
 
-### 💡 [Project Name 3](https://github.com/MonkeyCofi/project3)
-[Brief description of another significant project]
-- **Tech Stack:** [Technologies used]
-- **Key Features:** [Main features]
-- ⭐ **[X] stars** | 🍴 **[Y] forks**
+### 💡 [philosophers](https://github.com/MonkeyCofi/philosophers)
+A dining philosophers simulation
+- **Tech Stack:** C, Makefile
+- **Key Features:**
+  - Representation of philosophers through multiple threads
+  - Use of mutexes for multithreaded resource exclusivity
+  - Use of semaphores for multi-process resource exclusivity (bonus feature)
+  - 
 
 ## 📊 Coding Activity
 
