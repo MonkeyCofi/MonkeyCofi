@@ -28,12 +28,12 @@ I'm a passionate systems programmer with a focus on **C/C++** development, speci
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonkeyCofi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeyCofi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonkeyCofi&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonkeyCofi&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MonkeyCofi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeyCofi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 ## 🏆 Featured Projects
