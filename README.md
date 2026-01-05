@@ -56,7 +56,6 @@ A ray-tracer written in C using the [minilibx graphics library](https://github.c
   - Keyboard hooks for realtime camera movement
   - Realistic lighting and shadows using Phong reflection model
   - Texture bump mapping to simulate a 3D texture
-- ⭐ **[X] stars** | 🍴 **[Y] forks**
 
 ### 💡 [philosophers](https://github.com/MonkeyCofi/philosophers)
 A dining philosophers simulation
