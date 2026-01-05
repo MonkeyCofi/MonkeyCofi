@@ -75,14 +75,6 @@ A dining philosophers simulation
 
 </div>
 
-## 🎯 Goals for 2025
-
-- [ ] Contribute to **5 major open source projects**
-- [ ] Learn **Rust** for systems programming
-- [ ] Publish **[X] technical articles**
-- [ ] Mentor **junior developers** in C/C++
-- [ ] Complete **[specific certification or course]**
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MonkeyCofi&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
