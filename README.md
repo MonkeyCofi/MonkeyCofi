@@ -34,43 +34,30 @@ I'm a passionate systems programmer with a focus on **C/C++** development, speci
 
 ## 🏆 Featured Projects
 
-### 🔧 [minishell](https://github.com/MonkeyCofi/minishell)
-A minimalistic re-creation of the bash terminal in C
-- **Tech Stack:** C, Makefile
+### 🔧 [webserv](https://github.com/MonkeyCofi/webserv)
+An HTTP/1.1 compliant webserver inspired by NGINX
+- **Tech Stack:** C++, Makefile, php
 - **Key Features:**
-  - Priority queue for command parsing and execution
-  - Multiple command execution via pipes
-  - Heredoc input
-  - File input and output streaming
-  - History of runtime commands
-  - Builtin functions
-  - Variable storage and manipulation
+  - Poll-based I/O multiplexing
+  - Supports GET, POST and DELETE HTTP Methods
+  - php CGI script execution
+  - Handles multiple virtual servers
+  - Customizable configuration files with NGINX style syntax
 
-### 🚀 [miniRT](https://github.com/MonkeyCofi/minirt)
-A ray-tracer written in C using the [minilibx graphics library](https://github.com/42paris/minilibx-linux)
-- **Tech Stack:** C, Make, Proprietary graphics library (minilibx)
+### 💡 [ft_transcendence](https://github.com/piolows/ft_transcendence)
+A website featuring the classic Pong game
+- **Tech Stack:** Typescript, Tailwind, Fastify (Node.js framework), SQLite, Docker and Docker Compose
 - **Key Features:**
-  - Rendering of multiple multi-colored and textured shapes
-  - Realtime environment rendering
-  - Custom environment configuration via config files
-  - Keyboard hooks for realtime camera movement
-  - Realistic lighting and shadows using Phong reflection model
-  - Texture bump mapping to simulate a 3D texture
-
-### 💡 [philosophers](https://github.com/MonkeyCofi/philosophers)
-A dining philosophers simulation
-- **Tech Stack:** C, Makefile
-- **Key Features:**
-  - Representation of philosophers both through threads and processes
-  - Use of mutexes for multithreaded resource exclusivity
-  - Use of semaphores for multi-process resource exclusivity (bonus feature)
+  - Microservice-based backend
+  - Every service is run with its own container 🚢
+  - A rich user system featuring friends, match history, custom user avatars, and so much more
 
 ## 🤝 Connect With Me
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piercediet)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piercediet06@gmail.com)
 
 </div>
 
