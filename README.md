@@ -7,15 +7,13 @@ I'm a curious developer with tons of tools under my belt. I use these tools to b
 ## 🛠️ Tech Stack
 
 ### Toolkit
-![Javascript](https://img.shields.io/badge/javascript-00599C?style=for-the-badge&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/typescript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-00599C?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-00599C?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
