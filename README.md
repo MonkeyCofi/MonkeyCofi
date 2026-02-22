@@ -2,11 +2,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate systems programmer with a focus on **C/C++** development, specializing in high-performance, low-level programming. I enjoy tackling complex problems and building efficient, reliable software solutions.
+I'm a passionate programmer with a ton of tools under my belt.
 
 ## 🛠️ Tech Stack
 
 ### Languages
+![Javascript](https://img.shields.io/badge/javascript-00599C?style=for-the-badge&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/typescript-00599C?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,14 +25,6 @@ I'm a passionate systems programmer with a focus on **C/C++** development, speci
 - ⚡ **Performance Optimization** - Memory management and algorithm efficiency
 - 🔒 **Security** - Secure coding practices and vulnerability analysis
 - 🏗️ **Architecture** - Designing scalable system architectures
-- 📊 **Embedded Systems** - Resource-constrained programming
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonkeyCofi&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeyCofi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165">
-</div>
 
 ## 🏆 Featured Projects
 
