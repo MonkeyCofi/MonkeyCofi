@@ -2,22 +2,51 @@
 
 ## 🚀 About Me
 
-I'm a curious developer with tons of tools under my belt. I use these tools to build plenty of stuff. Come check them out
+I am an Advanced Core student from 42 Abu Dhabi. I work with a large range of tools to satisfy project requirements. Check me out 😏
 
 ## 🛠️ Tech Stack
 
-### Toolkit
+<div style="display: flex;">
+
+
+<div>
+<h2>Languages</h2>
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white">
+
+</div>
+</div>
+
+<div>
+<h2>Tools</h2>
+<div style="display: flex; flex-direction: row;">
+
+  <img src="https://img.shields.io/badge/javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white">
+
+</div>
+</div>
+
+</div>
+
+<!-- 
+### Languages
 ![Javascript](https://img.shields.io/badge/javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
+
 ![Shell](https://img.shields.io/badge/Shell-00599C?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![Valgrind](https://img.shields.io/badge/Valgrind-3776AB?style=for-the-badge&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-3776AB?style=for-the-badge&logoColor=white) -->
 
 ### Development Focus
 - 🎯 **Systems Programming** - Low-level system utilities and tools
