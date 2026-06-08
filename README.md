@@ -6,47 +6,26 @@ I am an Advanced Core student from 42 Abu Dhabi. I work with a large range of to
 
 ## 🛠️ Tech Stack
 
-<div style="display: flex;">
-
-
-<div>
-<h2>Languages</h2>
-<div style="display: flex; flex-direction: row;">
-  <img src="https://img.shields.io/badge/javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white">
-
-</div>
-</div>
-
-<div>
-<h2>Tools</h2>
-<div style="display: flex; flex-direction: row;">
-
-  <img src="https://img.shields.io/badge/javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white">
-
-</div>
-</div>
-
-</div>
-
-<!-- 
 ### Languages
 ![Javascript](https://img.shields.io/badge/javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=yellow)
 
-![Shell](https://img.shields.io/badge/Shell-00599C?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white)
+### Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![Valgrind](https://img.shields.io/badge/Valgrind-3776AB?style=for-the-badge&logoColor=white) -->
+![Shell](https://img.shields.io/badge/Shell-00599C?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-3776AB?style=for-the-badge&logoColor=white)
+
+### Frameworks & libraries
+![Next.js](https://img.shields.io/badge/Next.js-green?style=for-the-badge&logo=Next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-red?style=for-the-badge&logo=Fastify&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)
 
 ### Development Focus
 - 🎯 **Systems Programming** - Low-level system utilities and tools
