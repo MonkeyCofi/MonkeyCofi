@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am an Advanced Core student from 42 Abu Dhabi. I work with a large range of tools to satisfy project requirements. Check me out 😏
+I am an Advanced Core student from 42 Abu Dhabi. I work with a large range of tools to satisfy project requirements. I've worked with plenty of frontend and backend technologies. Check me out 😏
 
 ## 🛠️ Tech Stack
 
@@ -36,21 +36,27 @@ I am an Advanced Core student from 42 Abu Dhabi. I work with a large range of to
 ## 🏆 Featured Projects
 
 ### 🔧 [webserv](https://github.com/MonkeyCofi/webserv)
-An HTTP/1.1 compliant webserver inspired by NGINX
-- **Tech Stack:** C++, Makefile, php
+An HTTP/1.1 compliant webserver following the RFC-2616 guidelines.
+- **Tech Stack:**
+  - C++
+  - Makefile
+  - PHP
 - **Key Features:**
-  - Poll-based I/O multiplexing
+  - Non-blocking I/O multiplexer to handle 1000+ concurrent users
   - Supports GET, POST and DELETE HTTP Methods
-  - php CGI script execution
-  - Handles multiple virtual servers
-  - Customizable configuration files with NGINX style syntax
+  - Handles PHP scripts for dynamic content generation
+  - Handles multiple configurablevirtual servers that handle their own dedicated rulesets
 
 ### 💡 [ft_transcendence](https://github.com/piolows/ft_transcendence)
-A website featuring the classic Pong game
-- **Tech Stack:** Typescript, Tailwind, Fastify (Node.js framework), SQLite, Docker and Docker Compose
+A website featuring a real-time Pong game using websockets. It additionally features a social platform where users can make friends, remove friends, check other users' match history, and tournaments. There is also a secret surprise game.
+- **Tech Stack:**
+  - Typescript
+  - Tailwind
+  - Fastify (Node.js framework)
+  - SQLite
+  - Docker and Docker Compose
 - **Key Features:**
-  - Microservice-based backend
-  - Every service is run with its own container 🚢
+  - Microservice-based backend architecture using Docker compose to architect each container's behaviour
   - A rich user system featuring friends, match history, custom user avatars, and so much more
 
 ## 🤝 Connect With Me
