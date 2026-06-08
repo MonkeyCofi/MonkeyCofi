@@ -36,7 +36,7 @@ I am an Advanced Core student from 42 Abu Dhabi. I work with a large range of to
 ## 🏆 Featured Projects
 
 ### 🔧 [webserv](https://github.com/MonkeyCofi/webserv)
-An HTTP/1.1 compliant webserver following the RFC-2616 guidelines.
+An HTTP/1.1 compliant webserver following the RFC-2616 guidelines. It closely follows the style of NGINX config files
 - **Tech Stack:**
   - C++
   - Makefile
