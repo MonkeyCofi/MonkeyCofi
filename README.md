@@ -1,79 +1,63 @@
 # Heewo, I'm Pierce
 
-## 🚀 About Me
+## About Me
 
-I am an Advanced Core student from 42 Abu Dhabi. I work with a large range of tools to satisfy project requirements. I've worked with plenty of frontend and backend technologies. Check me out 😏
+I am an Advanced Core student at 42 Abu Dhabi. I work with a broad range of tools to meet project requirements, and I have experience with both frontend and backend technologies.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Languages
-![Javascript](https://img.shields.io/badge/javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/typescript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=yellow)
+**Languages**  
+JavaScript, TypeScript, C, C++, Python
 
-### Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Make](https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-00599C?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white)
-![Valgrind](https://img.shields.io/badge/Valgrind-3776AB?style=for-the-badge&logoColor=white)
+**Tools**  
+Linux, Git, Make, Shell, Docker, Valgrind
 
-### Frameworks & libraries
-![Next.js](https://img.shields.io/badge/Next.js-green?style=for-the-badge&logo=Next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-red?style=for-the-badge&logo=Fastify&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)
+**Frameworks & Libraries**  
+Next.js, Node.js, Fastify, React
 
-### Development Focus
-- 🎯 **Systems Programming** - Low-level system utilities and tools
-- ⚡ **Performance Optimization** - Memory management and algorithm efficiency
-- 🔒 **Security** - Secure coding practices and vulnerability analysis
-- 🏗️ **Architecture** - Designing scalable system architectures
+**Development Focus**  
+Systems programming, performance optimization (memory management and algorithm efficiency), secure coding practices, and scalable system architecture.
 
-## 🏆 Featured Projects
+---
 
-### 🔧 [webserv](https://github.com/MonkeyCofi/webserv)
-An HTTP/1.1 compliant webserver following the RFC-2616 guidelines. It closely follows the style of NGINX config files
-- **Tech Stack:**
-  - C++
-  - Makefile
-  - PHP
+## Featured Projects
+
+### webserv
+An HTTP/1.1 compliant web server that follows RFC‑2616 guidelines and adopts a configuration style similar to NGINX.
+
+- **Tech Stack:** C++, Makefile, PHP
 - **Key Features:**
-  - Non-blocking I/O multiplexer to handle 1000+ concurrent users
-  - Supports GET, POST and DELETE HTTP Methods
-  - Handles PHP scripts for dynamic content generation
-  - Handles multiple configurablevirtual servers that handle their own dedicated rulesets
+  - Non‑blocking I/O multiplexer handling 1000+ concurrent connections
+  - Supports GET, POST, and DELETE methods
+  - PHP script execution for dynamic content
+  - Multiple configurable virtual servers with dedicated rule sets
 
-### 💡 [ft_transcendence](https://github.com/piolows/ft_transcendence)
-A website featuring a real-time Pong game using websockets. It additionally features a social platform where users can make friends, remove friends, check other users' match history, and tournaments. There is also a secret surprise game.
-- **Tech Stack:**
-  - Typescript
-  - Tailwind
-  - Fastify (Node.js framework)
-  - SQLite
-  - Docker and Docker Compose
+### ft_transcendence
+A real‑time Pong game with WebSocket support, integrated into a social platform where users can manage friends, view match histories, join tournaments, and discover a hidden bonus game.
+
+- **Tech Stack:** TypeScript, Tailwind, Fastify (Node.js), SQLite, Docker & Docker Compose
 - **Key Features:**
-  - Microservice-based backend architecture using Docker compose to architect each container's behaviour
-  - A rich user system featuring friends, match history, custom user avatars, and so much more
+  - Microservice‑based backend orchestrated with Docker Compose
+  - Rich user system including avatars, friend lists, and match history
 
-## 🤝 Connect With Me
+### miniRT
+A minimal ray tracer built in C using the minilibx graphics library. The project renders 3D scenes with lighting, shadows, and basic reflections.
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piercediet)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piercediet06@gmail.com)
+- **Tech Stack:** C, Makefile, minilibx
+- **Key Takeaways:**
+  - Deepened understanding of 3D graphics and vector mathematics
+  - Implemented ray‑casting algorithms for realistic rendering
+  - Gained experience with low‑level graphics programming and performance optimization
 
-</div>
+---
+
+## Connect With Me
+
+[LinkedIn](https://linkedin.com/in/piercediet)  
+[Email](mailto:piercediet06@gmail.com)
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MonkeyCofi&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
-
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/MonkeyCofi">MonkeyCofi</a> - Feel free to reach out!</sub>
-</div>
-<!--
-**MonkeyCofi/MonkeyCofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
