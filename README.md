@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an Advanced Core student at 42 Abu Dhabi. I work with a broad range of tools to meet project requirements, and I have experience with both frontend and backend technologies.
+I am a student at 42 Abu Dhabi. I work with a broad range of tools to meet project requirements, and I have experience with both frontend and backend technologies.
 
 ## Tech Stack
 
@@ -13,10 +13,7 @@ JavaScript, TypeScript, C, C++, Python
 Linux, Git, Make, Shell, Docker, Valgrind
 
 **Frameworks & Libraries**  
-Next.js, Node.js, Fastify, React
-
-**Development Focus**  
-Systems programming, performance optimization (memory management and algorithm efficiency), secure coding practices, and scalable system architecture.
+Next.js, Node.js, Fastify, React, FastAPI
 
 ---
 
