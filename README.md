@@ -25,7 +25,6 @@ Systems programming, performance optimization (memory management and algorithm e
 ### webserv
 An HTTP/1.1 compliant web server that follows RFC‑2616 guidelines and adopts a configuration style similar to NGINX.
 
-- **Tech Stack:** C++, Makefile, PHP
 - **Key Features:**
   - Non‑blocking I/O multiplexer handling 1000+ concurrent connections
   - Supports GET, POST, and DELETE methods
@@ -35,7 +34,6 @@ An HTTP/1.1 compliant web server that follows RFC‑2616 guidelines and adopts a
 ### ft_transcendence
 A real‑time Pong game with WebSocket support, integrated into a social platform where users can manage friends, view match histories, join tournaments, and discover a hidden bonus game.
 
-- **Tech Stack:** TypeScript, Tailwind, Fastify (Node.js), SQLite, Docker & Docker Compose
 - **Key Features:**
   - Microservice‑based backend orchestrated with Docker Compose
   - Rich user system including avatars, friend lists, and match history
@@ -43,7 +41,6 @@ A real‑time Pong game with WebSocket support, integrated into a social platfor
 ### miniRT
 A minimal ray tracer built in C using the minilibx graphics library. The project renders 3D scenes with lighting, shadows, and basic reflections.
 
-- **Tech Stack:** C, Makefile, minilibx
 - **Key Takeaways:**
   - Deepened understanding of 3D graphics and vector mathematics
   - Implemented ray‑casting algorithms for realistic rendering
